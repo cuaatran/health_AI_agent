@@ -1,0 +1,74 @@
+[
+  {
+    "bmi_min": 0,
+    "bmi_max": 16.0,
+    "status": "Suy dinh dưỡng nặng",
+    "status_en": "Severe Thinness",
+    "level": 3,
+    "advice": "Tình trạng rất nguy hiểm. Cần gặp bác sĩ để được can thiệp dinh dưỡng ngay lập tức.",
+    "emoji": "🚨"
+  },
+  {
+    "bmi_min": 16.0,
+    "bmi_max": 17.0,
+    "status": "Suy dinh dưỡng vừa",
+    "status_en": "Moderate Thinness",
+    "level": 2,
+    "advice": "Cơ thể đang thiếu năng lượng nghiêm trọng. Nên cải thiện chế độ ăn và theo dõi sức khỏe.",
+    "emoji": "⚠️"
+  },
+  {
+    "bmi_min": 17.0,
+    "bmi_max": 18.5,
+    "status": "Suy dinh dưỡng nhẹ",
+    "status_en": "Mild Thinness",
+    "level": 1,
+    "advice": "Cần tăng cường dinh dưỡng, bổ sung protein và calo hợp lý.",
+    "emoji": "🟡"
+  },
+  {
+    "bmi_min": 18.5,
+    "bmi_max": 25.0,
+    "status": "Bình thường",
+    "status_en": "Normal",
+    "level": 0,
+    "advice": "Chỉ số lý tưởng. Tiếp tục duy trì chế độ ăn uống và sinh hoạt lành mạnh.",
+    "emoji": "✅"
+  },
+  {
+    "bmi_min": 25.0,
+    "bmi_max": 30.0,
+    "status": "Thừa cân",
+    "status_en": "Overweight",
+    "level": 1,
+    "advice": "Nên điều chỉnh chế độ ăn và tăng cường vận động để kiểm soát cân nặng.",
+    "emoji": "🟠"
+  },
+  {
+    "bmi_min": 30.0,
+    "bmi_max": 35.0,
+    "status": "Béo phì độ 1",
+    "status_en": "Obese Class I",
+    "level": 1,
+    "advice": "Cần giảm cân bằng cách kiểm soát calo và tập luyện thường xuyên.",
+    "emoji": "🔴"
+  },
+  {
+    "bmi_min": 35.0,
+    "bmi_max": 40.0,
+    "status": "Béo phì độ 2",
+    "status_en": "Obese Class II",
+    "level": 2,
+    "advice": "Nguy cơ bệnh lý cao. Nên tham khảo chuyên gia dinh dưỡng hoặc bác sĩ.",
+    "emoji": "🚑"
+  },
+  {
+    "bmi_min": 40.0,
+    "bmi_max": 1000,
+    "status": "Béo phì độ 3",
+    "status_en": "Obese Class III",
+    "level": 3,
+    "advice": "Tình trạng rất nguy hiểm. Cần can thiệp y tế để giảm cân an toàn.",
+    "emoji": "🚨"
+  }
+]

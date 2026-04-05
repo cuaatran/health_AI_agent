@@ -1,0 +1,11 @@
+# Health AI Agent — Dependencies
+
+# Core AI / Agent framework
+openai>=1.30.0
+langgraph>=0.2.0
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# Utilities
+python-dotenv>=1.0.0
